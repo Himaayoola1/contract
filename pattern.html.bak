@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <head>
+    <title>My Gym</title>
+  </head>
+     <body style="color:green;font-family:corbel;background-color:white">
+	   <p align="center">
+	     <a  href=" " style="color:brown">Home</a> &nbsp; &nbsp; &nbsp;
+		 <a  href=" " style="color:brown">About</a> &nbsp; &nbsp; &nbsp;
+		 <a  href=" " style="color:brown">Contact us</a> &nbsp; &nbsp; &nbsp;
+	   </p>
+	  <h2 style="padding:30px; margin:30px; border:1px solid pink">Welcome to My Gym</h2>
+	  <p style= "color:red;font-family:arial;background-color:black;font-size:25px">The gym is a nice place for exercising activities, do well to be registered in any gym around you so as to keep fit and be healthy.</p>
+	  <h2>Plans</h2>
+	  <p style="color:blue";>You can do it, just don't give up</p>
+	  <span>This is so </span><span style="color:red"><i>Interesting!</i></span>
+	  <p style="color:green;font-family:arial"align="center">Developed by Haishat</p>
+	 </body>
+</html>
